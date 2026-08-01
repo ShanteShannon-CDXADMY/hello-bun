@@ -11,3 +11,11 @@ if (q2 === "7"){
 console.log("Correct!")}
 else {
 console.log("Wrong Answer!")};
+
+let q3 = prompt("What runs our javascript?");
+if (q3 === "runtime"){
+console.log("Correct!")}
+else if (q3 === "bun"){
+console.log("Correct!")}
+else {
+	console.log("Wrong Answer!");
