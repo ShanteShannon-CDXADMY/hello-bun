@@ -1,3 +1,3 @@
-#Two Honest Sentences
-1.Im originally from New York.
-2. I have 3 year old boy/ girl twins.
+#JOKE
+Q. Why did the computer get kicked out of class?	
+A. It kept crashing the lesson and showing off its cookies!
